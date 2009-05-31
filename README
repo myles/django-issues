@@ -1,0 +1,15 @@
+Django Issues
+=============
+
+Requirements
+------------
+
+* Python_: 2.4 and higher (but lower than 3)
+* Django_: 1.0.2
+
+ * django.contrib.auth
+ * django.contrib.contenttypes
+ * django.contrib.comments
+
+.. _Python: http://python.org/
+.. _Django: http://djangoproject.com/
